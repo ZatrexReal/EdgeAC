@@ -1,18 +1,19 @@
 plugin:
   description:
-    name: Edge
+    name: Hydra
     version: 2.01
     description: Edge to protect your server
     authors:
       - Preceding
       - RealTrippy
+      - Hydra Development 
     website: https://www.edgeac.xyz
   command:
-    name: edge
+    name: hydraac
     aliases:
-      - edgeac
-      - ac
-      - anticheat
+      - hac
+      - ach
+      - anticheatss
 storage:
   method: MONGO
   mongo:
